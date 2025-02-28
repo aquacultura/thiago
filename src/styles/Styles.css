@@ -59,8 +59,14 @@ a {
     transition: color 0.3s ease;
 }
 
+a:focus {
+    text-decoration: none;  /* Remove o sublinhado também no foco */
+    outline: none;  /* Opcional: remove o contorno de foco, mas cuidado com acessibilidade */
+}
+
 /* Efeito hover nos links */
 a:hover {
+    text-decoration: none; 
     color: #0073e6;
 }
 
