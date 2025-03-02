@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/thiago/static/css/main.c6d89748.css",
-    "main.js": "/thiago/static/js/main.9d98eafb.js",
+    "main.css": "/thiago/static/css/main.377cc489.css",
+    "main.js": "/thiago/static/js/main.56680349.js",
     "static/js/453.14405f86.chunk.js": "/thiago/static/js/453.14405f86.chunk.js",
     "static/media/thiago.png": "/thiago/static/media/thiago.c623a510e9a3727a7163.png",
     "static/media/aqua-fundo-transparente.png": "/thiago/static/media/aqua-fundo-transparente.c23114e582f68f61128b.png",
+    "static/media/icon_shrimp.png": "/thiago/static/media/icon_shrimp.fa381917075d0a7056c7.png",
+    "static/media/aquasanidade3.jpg": "/thiago/static/media/aquasanidade3.96a25fdb39c4d6b76286.jpg",
+    "static/media/aquasanidade4.jpg": "/thiago/static/media/aquasanidade4.0abd2c9ccface65aa30a.jpg",
+    "static/media/aquasanidade2.jpg": "/thiago/static/media/aquasanidade2.697546757246b93f07ef.jpg",
     "static/media/lattes.png": "/thiago/static/media/lattes.43b5df02a94660bb8d27.png",
+    "static/media/aquasanidade1.jpg": "/thiago/static/media/aquasanidade1.05d83c7a7b44f45dac64.jpg",
     "index.html": "/thiago/index.html",
-    "main.c6d89748.css.map": "/thiago/static/css/main.c6d89748.css.map",
-    "main.9d98eafb.js.map": "/thiago/static/js/main.9d98eafb.js.map",
+    "main.377cc489.css.map": "/thiago/static/css/main.377cc489.css.map",
+    "main.56680349.js.map": "/thiago/static/js/main.56680349.js.map",
     "453.14405f86.chunk.js.map": "/thiago/static/js/453.14405f86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6d89748.css",
-    "static/js/main.9d98eafb.js"
+    "static/css/main.377cc489.css",
+    "static/js/main.56680349.js"
   ]
 }
