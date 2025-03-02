@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/thiago/static/css/main.377cc489.css",
-    "main.js": "/thiago/static/js/main.56680349.js",
+    "main.css": "/thiago/static/css/main.d06df9d0.css",
+    "main.js": "/thiago/static/js/main.5b6752d4.js",
     "static/js/453.14405f86.chunk.js": "/thiago/static/js/453.14405f86.chunk.js",
     "static/media/thiago.png": "/thiago/static/media/thiago.c623a510e9a3727a7163.png",
     "static/media/aqua-fundo-transparente.png": "/thiago/static/media/aqua-fundo-transparente.c23114e582f68f61128b.png",
+    "static/media/aquadata3.jpg": "/thiago/static/media/aquadata3.f4c96205484e17433a70.jpg",
     "static/media/icon_shrimp.png": "/thiago/static/media/icon_shrimp.fa381917075d0a7056c7.png",
+    "static/media/aquadata2.jpg": "/thiago/static/media/aquadata2.95b15eb12a59f89ea036.jpg",
     "static/media/aquasanidade3.jpg": "/thiago/static/media/aquasanidade3.96a25fdb39c4d6b76286.jpg",
     "static/media/aquasanidade4.jpg": "/thiago/static/media/aquasanidade4.0abd2c9ccface65aa30a.jpg",
     "static/media/aquasanidade2.jpg": "/thiago/static/media/aquasanidade2.697546757246b93f07ef.jpg",
+    "static/media/aquadata4.jpg": "/thiago/static/media/aquadata4.b71239037628c580b566.jpg",
     "static/media/lattes.png": "/thiago/static/media/lattes.43b5df02a94660bb8d27.png",
     "static/media/aquasanidade1.jpg": "/thiago/static/media/aquasanidade1.05d83c7a7b44f45dac64.jpg",
+    "static/media/aquadata1.jpg": "/thiago/static/media/aquadata1.d87feab27e39f080dfe8.jpg",
+    "static/media/aquadata-transparente.png": "/thiago/static/media/aquadata-transparente.696eae21de2bad817de7.png",
     "index.html": "/thiago/index.html",
-    "main.377cc489.css.map": "/thiago/static/css/main.377cc489.css.map",
-    "main.56680349.js.map": "/thiago/static/js/main.56680349.js.map",
+    "main.d06df9d0.css.map": "/thiago/static/css/main.d06df9d0.css.map",
+    "main.5b6752d4.js.map": "/thiago/static/js/main.5b6752d4.js.map",
     "453.14405f86.chunk.js.map": "/thiago/static/js/453.14405f86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.377cc489.css",
-    "static/js/main.56680349.js"
+    "static/css/main.d06df9d0.css",
+    "static/js/main.5b6752d4.js"
   ]
 }
