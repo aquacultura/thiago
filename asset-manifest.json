@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/thiago/static/css/main.5de16773.css",
-    "main.js": "/thiago/static/js/main.0e3cd2ba.js",
+    "main.css": "/thiago/static/css/main.4fbf0b17.css",
+    "main.js": "/thiago/static/js/main.2c61edfc.js",
     "static/js/453.14405f86.chunk.js": "/thiago/static/js/453.14405f86.chunk.js",
     "static/media/thiago.png": "/thiago/static/media/thiago.c623a510e9a3727a7163.png",
     "static/media/aqua-fundo-transparente.png": "/thiago/static/media/aqua-fundo-transparente.c23114e582f68f61128b.png",
@@ -18,12 +18,12 @@
     "static/media/aquadata1.jpg": "/thiago/static/media/aquadata1.d87feab27e39f080dfe8.jpg",
     "static/media/aquadata-transparente.png": "/thiago/static/media/aquadata-transparente.696eae21de2bad817de7.png",
     "index.html": "/thiago/index.html",
-    "main.5de16773.css.map": "/thiago/static/css/main.5de16773.css.map",
-    "main.0e3cd2ba.js.map": "/thiago/static/js/main.0e3cd2ba.js.map",
+    "main.4fbf0b17.css.map": "/thiago/static/css/main.4fbf0b17.css.map",
+    "main.2c61edfc.js.map": "/thiago/static/js/main.2c61edfc.js.map",
     "453.14405f86.chunk.js.map": "/thiago/static/js/453.14405f86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5de16773.css",
-    "static/js/main.0e3cd2ba.js"
+    "static/css/main.4fbf0b17.css",
+    "static/js/main.2c61edfc.js"
   ]
 }
